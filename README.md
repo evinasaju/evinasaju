@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Evina Saju
 
-<!--
-**evinasaju/evinasaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at St. Thomas College, Thrissur
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, Django and Web Development.
+
+### 🛠️ Technical Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- Django
+- Flutter
+
+### 🚀 Projects
+- Clothing E-commerce Website
+- Academic and Practice Projects
+
+### 🎯 Career Goal
+To become a skilled software developer and continuously improve my technical knowledge.
+
+### 📫 Connect with Me
+- GitHub: https://github.com/evinasaju
+
+✨ Always learning, always growing!
