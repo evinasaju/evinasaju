@@ -16,6 +16,10 @@
 
 ### 🚀 Projects
 - Clothing E-commerce Website
+ https://evinasaju.github.io/fashion-store-responsive/
+Responsive women's fashion store.
+Built using HTML,CSS and Javascript.
+Supports mobile and desktop screens.
 - Academic and Practice Projects
 
 ### 🎯 Career Goal
